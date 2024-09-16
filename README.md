@@ -48,8 +48,8 @@
   <li>Navigate to the project directory:
     <pre><code>cd movie-app </code></pre>
   </li>
-  <li>Start the app: <br>
-  Open "<i><b>index.html</b></i>" in your browser.</li>
+ <li>Start the app: <br>
+  Open <code>index.html</code> in your browser.</li>
 </ol>
 </p>
 <p align="center">Made with ❤️ by YASSINE HAMDOUNE</p>
